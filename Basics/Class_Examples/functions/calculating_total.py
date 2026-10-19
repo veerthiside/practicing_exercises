@@ -1,4 +1,4 @@
-def calculate_total(expense = 0): # here expense = 0 is a default variable. if you don't pass any argument to this function it will use 0 as an argument. 
+def calculate_total(expense = 0): # here expense = 0 is a default argument. if you don't pass any argument to this function it will use 0 as an argument. 
     """
     This is a documentation string. It is used to tell the caller of the funtion what the funtion does.
     """
