@@ -6,6 +6,6 @@
 - [ ]  9_for
 - [ ]  10_functions
 - [ ]  11_dict_tuples
-- [ ]  13_read_write_files
+- [x]  13_read_write_files
 - [ ]  15_exception_handling
 - [ ]  16_class_and_objects
