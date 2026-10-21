@@ -1,3 +1,5 @@
+# ⭐
+
 with open("Basics\\Exercise\\13_read_write_files\\stocks.csv", "r", encoding="utf-8") as infile, open("Basics\\Exercise\\13_read_write_files\\q2_first_try_output.csv", "w", encoding="utf-8") as op_file:
     infile.readline() # why? - so the for loop starts from 2nd line
     op_file.write("Company Name,PE Ratio,PB Ratio\n")

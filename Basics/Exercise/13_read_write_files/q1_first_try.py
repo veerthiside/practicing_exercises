@@ -1,4 +1,4 @@
-# ⭐⭐⭐ 
+# ⭐ 
 
 with open("Basics/Exercise/13_read_write_files/poem.txt", "r", encoding="utf-8") as file: # open the file at x location in reading mode which has encoding utf-8, calling it file in short
     text = file.read() # store the file in text variable
