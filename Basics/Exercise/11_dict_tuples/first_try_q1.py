@@ -1,4 +1,4 @@
-""" dictionary_country_population = {
+dictionary_country_population = {
     "china":143, 
     "india":136, 
     "usa": 32, 
@@ -22,8 +22,8 @@ for key in dictionary_country_population:
         else:    
             new_country_population = input("Enter the population of the country you entered: ")
             dictionary_country_population[new_country] = new_country_population
-            print(dictionary_country_population)
+            print(dictionary_country_population) # this is what you were doing wrong. call dictionary using the for loop.
     elif ask == "remove":
         country_to_del = input("Enter country you want to delete: ")
         if country_to_del in dictionary_country_population:
-            del dictionary_country_population[country_to_del] """
+            del dictionary_country_population[country_to_del]
