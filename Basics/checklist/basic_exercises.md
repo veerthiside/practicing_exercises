@@ -1,4 +1,4 @@
-- [ ]  2_variables
+- [x]  2_variables
 - [x]  3_numbers
 - [ ]  4_strings
 - [ ]  5_lists
