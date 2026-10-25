@@ -1,8 +1,8 @@
 - [x]  2_variables
 - [x]  3_numbers
 - [ ]  4_strings
-- [ ]  5_lists
-- [ ]  8_if
+- [x]  5_lists
+- [x]  8_if
 - [x]  9_for
 - [x]  10_functions
 - [x]  11_dict_tuples
