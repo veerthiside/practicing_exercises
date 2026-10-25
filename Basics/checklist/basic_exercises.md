@@ -4,7 +4,7 @@
 - [ ]  5_lists
 - [ ]  8_if
 - [ ]  9_for
-- [ ]  10_functions
+- [x]  10_functions
 - [x]  11_dict_tuples
 - [x]  13_read_write_files
 - [ ]  15_exception_handling
