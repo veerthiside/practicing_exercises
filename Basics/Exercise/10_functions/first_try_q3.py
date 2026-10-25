@@ -1,3 +1,5 @@
+# ⭐⭐⭐
+# SEE THE FORTH TRY. YOU UNDERSTOOD THIS QUESTION THERE.
 """
 3. Write a function called print_pattern that takes integer number as an argument
 and prints following pattern if input number is 3,
