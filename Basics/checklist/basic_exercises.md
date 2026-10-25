@@ -3,7 +3,7 @@
 - [ ]  4_strings
 - [ ]  5_lists
 - [ ]  8_if
-- [ ]  9_for
+- [x]  9_for
 - [x]  10_functions
 - [x]  11_dict_tuples
 - [x]  13_read_write_files
