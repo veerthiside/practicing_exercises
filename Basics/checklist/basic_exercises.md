@@ -1,6 +1,6 @@
 - [x]  2_variables
 - [x]  3_numbers
-- [ ]  4_strings
+- [x]  4_strings
 - [x]  5_lists
 - [x]  8_if
 - [x]  9_for
