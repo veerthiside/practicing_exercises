@@ -7,5 +7,5 @@
 - [x]  10_functions
 - [x]  11_dict_tuples
 - [x]  13_read_write_files
-- [ ]  15_exception_handling
-- [ ]  16_class_and_objects
+- [x]  15_exception_handling
+- [x]  16_class_and_objects
